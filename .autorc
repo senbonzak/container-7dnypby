@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "senbonzak",
+  "repo": "container-7dnypby",
+  "name": "senbonzak",
+  "email": "magassadjiguiba0000@gmail.com",
+}
